@@ -1,0 +1,10 @@
+National Wing of Integrated Hospitals and Digital Health:
+ 
+      hospitals
+         -add hospitals
+         -remove hospitals
+         -regional health
+         -inventory
+
+
+      

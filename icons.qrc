@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC>
+     <qresource>
+         <file>icons/hospital.png</file>
+         <file>icons/inventory.png</file>
+         <file>icons/records.png</file>S
+         <file>icons/themes.png</file>
+         <file>icons/users.png</file>
+         <file>icons/supply.png</file>
+     </qresource>
+</RCC>s
